@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR", "QR\QR.csproj", "{CCC70869-7C71-4802-B56A-184BADCF720F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC70869-7C71-4802-B56A-184BADCF720F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC70869-7C71-4802-B56A-184BADCF720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC70869-7C71-4802-B56A-184BADCF720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC70869-7C71-4802-B56A-184BADCF720F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
